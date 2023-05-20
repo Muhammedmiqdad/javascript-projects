@@ -9,7 +9,7 @@ body {
     display: flex;
     justify-content: space-between;
   }
-  .box {
+  /* .box {
     background-image: linear-gradient(rgb(41, 146, 181), rgb(5, 121, 5));
     height: 500px;
     width: 650px;
@@ -17,7 +17,7 @@ body {
     justify-content: space-between;
     align-self: center;
     margin: auto;
-  }
+  } */
   /* .box:hover {
     padding: 15px;
     transition: 1s;
