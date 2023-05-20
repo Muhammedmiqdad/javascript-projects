@@ -1,0 +1,19 @@
+.container{
+    text-align: center;
+}
+.remove{
+    font-size: 2rem;
+    color: green;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    text-decoration: overline;
+    text-transform: capitalize;
+}
+button{
+    font-size: 1.5rem;
+    padding: .3em;
+    border-radius: 10px;
+    background-color: green;
+    color: #fff;
+    border: none;
+    outline: none;
+}

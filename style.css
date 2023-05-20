@@ -1,0 +1,44 @@
+body {
+    margin: auto;
+  }
+  #container {
+    background-color: rgb(85, 59, 169);
+    height: 100vh;
+    width: 100vw;
+    margin: auto;
+    display: flex;
+    justify-content: space-between;
+  }
+  .box {
+    background-image: linear-gradient(rgb(41, 146, 181), rgb(5, 121, 5));
+    height: 500px;
+    width: 650px;
+    border-radius: 10%;
+    justify-content: space-between;
+    align-self: center;
+    margin: auto;
+  }
+  /* .box:hover {
+    padding: 15px;
+    transition: 1s;
+  } */
+  .box h1 {
+    text-align: center;
+    color: black;
+    text-decoration: underline;
+  }
+  .task {
+    display: flex;
+    margin-top: 30%;
+  }
+  .task a {
+    margin: auto;
+    text-decoration: none;
+    font-size: larger;
+    color: black;
+    font-size: larger;
+    font-family: Arial, Helvetica, sans-serif;
+  }
+  a:hover {
+    background-image: linear-gradient(white, gray);
+  }

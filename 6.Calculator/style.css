@@ -1,0 +1,38 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.calculator{
+    border: 1px solid #000;
+    display: inline-block;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+    
+}
+input{
+    padding: 1em;
+    font-size: 1.2rem;
+    font-weight: bold;
+    width: 100%;
+}
+table{
+    text-align: center;
+}
+td{
+    border: 1px solid #000;
+    background-color: rgb(81, 238, 228);
+}
+button{
+    border: none;
+    outline: none;
+    box-shadow: 0 0 4px #000;
+    padding: 1.5em;
+    margin: 2em;
+    font-size: 1rem;
+    border-radius: 20px;
+    color: #fff;
+    background-color: #000;
+}
